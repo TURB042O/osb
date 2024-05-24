@@ -28,7 +28,7 @@ Please lint your code with the projects' [ESLint](https://eslint.org/) config.
 
 Contributors are listed in this file, and given a Contributor role in the support server. If you have more questions, there are lots of helpful Contributors in the `#developers` channel on the Discord server.
 
-### Setting up the bot to run locally for contributing
+## Setting up the bot to run locally for contributing
 
 To run the bot, you need the following things first: Git, [NodeJS v18+](https://nodejs.org/en/), [Postgres](https://www.postgresql.org/download/), [Python](https://www.python.org/) and a discord bot account.
 <details>
@@ -86,6 +86,7 @@ You can also ask Magna to invite your Bot with your invite link above if you so 
 
 <details>
 <summary></summary>
+
 - [[Ciaran](https://github.com/ciaranlangton)]
 - [[Devin](https://github.com/devin8)]
 - [[ms813](https://github.com/ms813)]
