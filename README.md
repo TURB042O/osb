@@ -32,6 +32,9 @@ Contributors are listed in this file, and given a Contributor role in the suppor
 
 To run the bot, you need the following things first: Git, [NodeJS v18+](https://nodejs.org/en/), [Postgres](https://www.postgresql.org/download/), [Python](https://www.python.org/) and a discord bot account.
 
+<details>
+<summary>Discord bot</summary>
+
 #### **Setting up a Discord Bot**
 
 1. Head to [Discord Developers](https://discord.com/developers) and create an application.
@@ -40,6 +43,8 @@ To run the bot, you need the following things first: Git, [NodeJS v18+](https://
 4. Create a Bot on the Bot tab. Copy and store the token for your bot, you'll need this later on.
 5. Ensure your bot has `Privileged Gateway Intents > Server Members Intent` enabled.
 6. Invite your bot to your server via this URL. Be sure to input your `Application ID` into the URL. `https://discord.com/api/oauth2/authorize?client_id=<INSERT APPLICATION ID HERE>&permissions=2198754295617&scope=applications.commands%20bot`
+
+<summary>Enviroment</summary>
 
 #### **Setting up your environment**
 
@@ -66,11 +71,15 @@ To run the bot, you need the following things first: Git, [NodeJS v18+](https://
 
 If you have errors or issues, you can ask us for help in the #developer channel in the [discord server](https://discord.gg/ob).
 
+<summary>Test server</summary>
+
 #### **Shared Testing Server**
 
 In addition to being able your develop on your own server as we have done above, there is a shared dev server which can be joined here: [https://discord.gg/Cup2gwUGwr](https://discord.gg/Cup2gwUGwr)
 
 You can also ask Magna to invite your Bot with your invite link above if you so wish.
+
+<summary>Contributors</summary>
 
 ### Contributors
 
@@ -89,6 +98,7 @@ You can also ask Magna to invite your Bot with your invite link above if you so 
 - [[Gidedin](https://github.com/imgidedin)]
 - [[Andre](https://github.com/ard35)]
 - [[TastyPumPum](https://github.com/TastyPumPum)]
+</details>
 
 ## Self Hosting
 
