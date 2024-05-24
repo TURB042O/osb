@@ -80,7 +80,7 @@ In addition to being able your develop on your own server as we have done above,
 
 You can also ask Magna to invite your Bot with your invite link above if you so wish.
 </details>
----
+
 
 ## Contributors
 
