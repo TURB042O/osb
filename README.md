@@ -72,15 +72,12 @@ To run the bot, you need the following things first: Git, [NodeJS v18+](https://
 If you have errors or issues, you can ask us for help in the #developer channel in the [discord server](https://discord.gg/ob).
 </details>
 <details>
-<summary>Shared Test server</summary>
 
-#### **Shared Testing Server**
+## **Shared Testing Server**
 
 In addition to being able your develop on your own server as we have done above, there is a shared dev server which can be joined here: [https://discord.gg/Cup2gwUGwr](https://discord.gg/Cup2gwUGwr)
 
 You can also ask Magna to invite your Bot with your invite link above if you so wish.
-</details>
-
 
 ## Contributors
 
