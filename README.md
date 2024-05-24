@@ -32,7 +32,7 @@ Contributors are listed in this file, and given a Contributor role in the suppor
 
 To run the bot, you need the following things first: Git, [NodeJS v18+](https://nodejs.org/en/), [Postgres](https://www.postgresql.org/download/), [Python](https://www.python.org/) and a discord bot account.
 <details>
-<summary>Discord bot</summary>
+<summary>setup Discord bot</summary>
 
 #### **Setting up a Discord Bot**
 
@@ -44,7 +44,7 @@ To run the bot, you need the following things first: Git, [NodeJS v18+](https://
 6. Invite your bot to your server via this URL. Be sure to input your `Application ID` into the URL. `https://discord.com/api/oauth2/authorize?client_id=<INSERT APPLICATION ID HERE>&permissions=2198754295617&scope=applications.commands%20bot`
 </details>
 <details>
-<summary>Enviroment</summary>
+<summary>Setup Enviroment</summary>
 
 #### **Setting up your environment**
 
@@ -72,7 +72,7 @@ To run the bot, you need the following things first: Git, [NodeJS v18+](https://
 If you have errors or issues, you can ask us for help in the #developer channel in the [discord server](https://discord.gg/ob).
 </details>
 <details>
-<summary>Test server</summary>
+<summary>Shared Test server</summary>
 
 #### **Shared Testing Server**
 
@@ -80,13 +80,10 @@ In addition to being able your develop on your own server as we have done above,
 
 You can also ask Magna to invite your Bot with your invite link above if you so wish.
 </details>
-
-
+---
+##### Contributors
 <details>
-<summary>Contributors</summary>
-
-### Contributors
-
+<summary></summary>
 - [[Ciaran](https://github.com/ciaranlangton)]
 - [[Devin](https://github.com/devin8)]
 - [[ms813](https://github.com/ms813)]
