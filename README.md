@@ -71,7 +71,6 @@ To run the bot, you need the following things first: Git, [NodeJS v18+](https://
 
 If you have errors or issues, you can ask us for help in the #developer channel in the [discord server](https://discord.gg/ob).
 </details>
-<details>
 
 ## **Shared Testing Server**
 
