@@ -496,7 +496,7 @@ model User {
 
   // Migrate
   farmingPatches_herb       Json? @map("farmingPatches.herb") @db.Json
-  farmingPatches_fruit_tree Json? @map("farmingPatches.fruit tree") @db.Json
+  farmingPatches_'fruit tree' Json? @map("farmingPatches.fruit tree") @db.Json
   farmingPatches_tree       Json? @map("farmingPatches.tree") @db.Json
   farmingPatches_allotment  Json? @map("farmingPatches.allotment") @db.Json
   farmingPatches_hops       Json? @map("farmingPatches.hops") @db.Json

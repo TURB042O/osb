@@ -8,7 +8,7 @@ import { dateFm, makeAutoFarmButton, makeComponents, stringMatches } from '../ut
 
 export const farmingPatchNames = [
 	'herb',
-	'fruit_tree',
+	''fruit tree'',
 	'tree',
 	'allotment',
 	'hops',
